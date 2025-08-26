@@ -1,0 +1,4 @@
+#ignore all except data.csv and .gitignore
+!.gitignore
+!data.csv
+!sf6_match_analysis.ipynb
