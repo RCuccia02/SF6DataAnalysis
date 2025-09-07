@@ -1,0 +1,7 @@
+dropout: 0.3
+embed_dim: 64
+grad_clip_val: 1.0
+hidden_dim: 256
+lr: 0.01
+num_chars: 26
+weight_decay: 0.0001
